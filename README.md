@@ -9,7 +9,8 @@ Analysis scripts: Perform multiple financial analyses and generate charts and ta
 
 Outputs: All results are saved in the outputs/ folder, organized by analysis type.
 
-🗂 Folder Structure
+# 🗂 Folder Structure
+
 stock-etl/
 │
 ├── data/
