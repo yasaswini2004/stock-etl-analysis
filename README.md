@@ -56,7 +56,7 @@ stock-etl/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/yasaswini2004/stock-etl-analysis.git
 cd stock-etl
 ```
 ### 2️⃣ Create & Activate Virtual Environment
