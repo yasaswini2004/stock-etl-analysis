@@ -1,5 +1,5 @@
-## Stock ETL & Analysis Project
-# Project Overview
+# Stock ETL & Analysis Project
+## 📌 Project Overview
 
 This project extracts, transforms, and analyzes historical stock data for multiple companies. It includes:
 
@@ -49,4 +49,13 @@ stock-etl/
 ├── top_movers_sector_summary.py
 ├── trading_volume_analysis.py
 └── volatility_vs_return.py
+```
+
+## 🛠 Setup Instructions
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone <your-github-repo-url>
+cd stock-etl
 ```
