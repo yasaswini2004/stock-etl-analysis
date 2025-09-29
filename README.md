@@ -1,5 +1,6 @@
 # 🗂 Folder Structure
 
+```text
 stock-etl/
 ├── data/
 │   ├── raw/              # Raw downloaded stock CSVs
@@ -36,3 +37,4 @@ stock-etl/
 ├── top_movers_sector_summary.py
 ├── trading_volume_analysis.py
 └── volatility_vs_return.py
+```
