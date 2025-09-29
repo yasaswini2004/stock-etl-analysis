@@ -1,3 +1,15 @@
+## Stock ETL & Analysis Project
+# Project Overview
+
+This project extracts, transforms, and analyzes historical stock data for multiple companies. It includes:
+
+ETL pipeline: Fetch data from Yahoo Finance, clean it, and load into PostgreSQL.
+
+Analysis scripts: Perform multiple financial analyses and generate charts and tables.
+
+Outputs: All results are saved in the outputs/ folder, organized by analysis type.
+
+
 # 🗂 Folder Structure
 
 ```text
