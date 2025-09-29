@@ -1,3 +1,4 @@
+Stock ETL & Analysis Project
 📌 Project Overview
 
 This project extracts, transforms, and analyzes historical stock data for multiple companies. It includes:
